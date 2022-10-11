@@ -1,0 +1,67 @@
+.hed {
+    background-image: linear-gradient(blue, white);
+}
+
+.min {
+    background-color: white;
+}
+.min li {
+    display: inline-block;
+    
+}
+
+.hed .imgs{
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+.navic li {
+    display: inline-block;
+    margin: 20px 10px 30px;
+
+}
+nav{
+    display: inline-block;
+    margin-left: 600px;
+}
+.down {
+    background-color: white;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+
+.inf {
+    margin: 0 auto;
+    margin-top: 120px;
+    border-bottom: 3px solid yellow;
+    border-;
+}
+
+.li1 {
+    margin-left: 200px;
+}
+
+.inf h1 {
+    color: blue;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.img_word, .img_word div {
+    display: inline-block;
+}
+
+.word1 p{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: blue;
+}
+.word1 h1{
+    color: blue;
+    margin-bottom: 20px;
+}
+.img_word .word2 {
+    margin-left:  50px;
+}
